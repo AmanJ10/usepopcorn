@@ -1,3 +1,19 @@
+# usePopcorn
+
+usePopcorn is a React-based web application designed for movie enthusiasts to search for movies, view detailed information, and maintain a personalized list of watched movies. The application interacts with the OMDB API to fetch movie data and offers an interactive user experience for managing watched movies and ratings.
+
+## Features
+
+- **Search Movies**: Users can search for movies using the OMDB API by entering keywords in the search bar.
+- **View Movie Details**: Clicking on a movie from the search results displays detailed information, including the plot, actors, director, release date, and IMDb rating.
+- **Rate and Add Movies**: Users can rate movies and add them to their watched list.
+- **Manage Watched Movies**: Users can view a summary of watched movies, including average IMDb ratings, user ratings, and runtime. They can also delete movies from their watched list.
+
+## Preview:
+![Screenshot 2024-05-24 200900](https://github.com/AmanJ10/usepopcorn/assets/83915557/b2421a3a-c01d-4db8-8355-289f94300b57)
+![Screenshot 2024-05-24 202011](https://github.com/AmanJ10/usepopcorn/assets/83915557/35998364-eab6-4258-8de7-016135cfef7e)
+![Screenshot 2024-05-24 202129](https://github.com/AmanJ10/usepopcorn/assets/83915557/4dfc938d-1ce3-4656-bb91-9ffa0821cdb0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
